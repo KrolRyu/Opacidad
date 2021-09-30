@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Opacidad"
         mc:Ignorable="d"
-        Title="Opacidad" Height="450" Width="800">
+        Title="Opacidad" Height="450" Width="800"
+        Icon="Assets/128 (2).ico">
     <Grid>
         <Image HorizontalAlignment="Left" Height="349" Margin="10,34,0,0" VerticalAlignment="Top" Width="236" Source="Assets/episodioIV.jpg" Opacity="0.5" MouseEnter="Image_MouseEnter" MouseLeave="Image_MouseLeave">
             <Image.OpacityMask>
